@@ -9,9 +9,9 @@ export default function Footer() {
           </p>
           <p className="mt-3 text-xs font-bold text-white">Social Links</p>
           <div className="mt-2 flex justify-center gap-2">
+            <img className="size-7" src="/assets/instagram.png" alt="Instagram" />
             <img className="size-7" src="/assets/facebook.png" alt="Facebook" />
             <img className="size-7" src="/assets/twitter.png" alt="Twitter" />
-            <img className="size-7" src="/assets/instagram.png" alt="Instagram" />
           </div>
         </div>
 
