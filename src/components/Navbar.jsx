@@ -13,6 +13,7 @@ export default function Navbar() {
       <NavLink to="/" className="flex items-center gap-2 text-[13px] font-black text-slate-900">
         <span>KeenKeeper</span>
       </NavLink>
+      
 
       <nav className="flex items-center justify-end gap-2">
         {links.map((link) => (
