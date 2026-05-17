@@ -40,14 +40,15 @@ export function TimelineProvider({ children }) {
       setToast(`${title} added to timeline`);
       window.setTimeout(() => setToast(""), 2400);
     };
-
     return {
       addEntry,
       entries,
       interactionsThisMonth: countThisMonth(entries),
       toast
     };
-  }, [entries, toast]);
+  },
+   
+[entries, toast]);
 
   return <TimelineContext.Provider value={value}>{children}</TimelineContext.Provider>;
 }
@@ -58,6 +59,5 @@ export function useTimeline() {
   if (!value) {
     throw new Error("useTimeline must be used inside TimelineProvider");
   }
-
   return value;
 }
