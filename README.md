@@ -16,5 +16,6 @@ React.js, React Router DOM, Vite, Tailwind CSS, DaisyUI, Recharts, LocalStorage
 ## Run
 `npm install` then `npm run dev`
 
+
 ## Build
 `npm run build`
