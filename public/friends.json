@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=85",
+    "email": "david.kim@example.com",
+    "days_since_contact": 19,
+    "status": "almost due",
+    "tags": ["college", "mentor"],
+    "bio": "Met during university debate club and still shares honest career advice when big decisions come up.",
+    "goal": 21,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=500&q=85",
+    "email": "emma.wilson@example.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["design", "remote"],
+    "bio": "Design friend who sends sharp feedback, beautiful screenshots, and practical ideas for creative projects.",
+    "goal": 30,
+    "next_due_date": "2026-05-27"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=85",
+    "email": "lisa.nakamura@example.com",
+    "days_since_contact": 24,
+    "status": "overdue",
+    "tags": ["travel", "close"],
+    "bio": "Backpacking friend from Kyoto who remembers tiny details and always suggests thoughtful places to visit.",
+    "goal": 14,
+    "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=85",
+    "email": "james.wright@example.com",
+    "days_since_contact": 11,
+    "status": "on-track",
+    "tags": ["school", "music"],
+    "bio": "Old school friend and playlist partner who makes ordinary weekends feel more memorable.",
+    "goal": 18,
+    "next_due_date": "2026-05-24"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=85",
+    "email": "sarah.chen@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former teammate who helped build calmer communication habits and still celebrates every career win.",
+    "goal": 21,
+    "next_due_date": "2026-06-03"
+  },
+  {
+    "id": 6,
+    "name": "Omar Hassan",
+    "picture": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=500&q=85",
+    "email": "omar.hassan@example.com",
+    "days_since_contact": 29,
+    "status": "overdue",
+    "tags": ["football", "university"],
+    "bio": "University friend and match-day analyst who turns every call into an energetic catch-up.",
+    "goal": 21,
+    "next_due_date": "2026-05-08"
+  },
+  {
+    "id": 7,
+    "name": "Nadia Rahman",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=500&q=85",
+    "email": "nadia.rahman@example.com",
+    "days_since_contact": 16,
+    "status": "almost due",
+    "tags": ["family friend", "travel"],
+    "bio": "Family friend who offers practical travel advice and checks in with warm, generous stories.",
+    "goal": 17,
+    "next_due_date": "2026-05-19"
+  },
+  {
+    "id": 8,
+    "name": "Mike Chen",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=500&q=85",
+    "email": "mike.chen@example.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["gym", "weekend"],
+    "bio": "Training partner and weekend coffee explorer with a gift for finding great local spots.",
+    "goal": 14,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 9,
+    "name": "Priya Sharma",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=500&q=85",
+    "email": "priya.sharma@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["books", "creative"],
+    "bio": "Book-club friend who sends thoughtful notes and turns simple conversations into meaningful reflection.",
+    "goal": 20,
+    "next_due_date": "2026-05-31"
+  },
+  {
+    "id": 10,
+    "name": "Alex Johnson",
+    "picture": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?auto=format&fit=crop&w=500&q=85",
+    "email": "alex.johnson@example.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["college", "close"],
+    "bio": "First-year orientation friend and the person who brings energy whenever a plan needs momentum.",
+    "goal": 14,
+    "next_due_date": "2026-05-13"
+  }
+]
